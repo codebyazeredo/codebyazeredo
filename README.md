@@ -41,31 +41,11 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="50" />
       </div>
     </div>
-    <!-- Testing -->
-    <div class="skills-section"  align="center">
-      <h3><strong>Testing</strong></h3><br>
-      <div class="skills-icons"  align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain-wordmark.svg" width="50" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="50" />
-      </div>
-    </div>
-    <!-- Tools and Technologies -->
-    <div class="skills-section"  align="center">
-      <h3><strong>Other Tools and Technologies</strong></h3><br>
-      <div class="skills-icons"  align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="50"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="50" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" width="50" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="50" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="50" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="50"/>        
-      </div>
-    </div>
-  </div>
-
+    <br>
+    <br>
+   <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyazeredo&theme=dark" alt="Top Linguagens">
+  </p>
   <br>
   <h2 align="center">📫 Contact</h2>
   <p align="center">
