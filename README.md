@@ -32,10 +32,10 @@
 > ## 📊 Estatísticas do GitHub
 > 
 > <p align="center">
->   <img src="https://github-readme-stats.vercel.app/api?username=matheusazeredo&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats"/>
+>   <img src="https://github-readme-stats.vercel.app/api?username=codebyazeredo&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats"/>
 > </p>
 > <p align="center">
->   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusazeredo&layout=compact&theme=tokyonight&count_private=true" alt="Top Languages"/>
+>   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyazeredo&layout=compact&theme=tokyonight&count_private=true" alt="Top Languages"/>
 > </p>
 > 
 > ---
