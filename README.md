@@ -35,14 +35,6 @@
 > 
 > ---
 > 
-> ## 🚀 Projetos em Destaque
-> 
-> - **Gestão de Eventos** - Sistema com Laravel, modais interativos e filtros de data para organização de eventos.
-> - **API RESTful de E-commerce** - API robusta com Java/Spring, incluindo autenticação JWT e operações CRUD.
-> - **Análise de Dados** - Painel interativo em PHP/Laravel, com SQL para consultas complexas e visualização de métricas.
-> 
-> ---
-> 
 > ## 📊 Estatísticas do GitHub
 > 
 > <p align="center">
