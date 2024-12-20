@@ -35,11 +35,6 @@
 > 
 > ---
 > 
-> ## 📊 Estatísticas do GitHub
-> 
-> <p align="center">
->   <img src="https://github-readme-stats.vercel.app/api?username=codebyazeredo&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats"/>
-> </p>
 > <p align="center">
 >   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyazeredo&layout=compact&theme=tokyonight&count_private=true" alt="Top Languages"/>
 > </p>
@@ -48,5 +43,5 @@
 > 
 > ## 📫 Contato
 > 
-> - **Email:** [matheus.azeredo@hotmail.com](mailto:matheus.azeredo@hotmail.com)  
+> - **Email:** [matheus.azeredo.pro@gmail.com](mailto:matheus.azeredo.pro@gmail.com)  
 > - **Telefone:** +55 (48) 99803-3577
