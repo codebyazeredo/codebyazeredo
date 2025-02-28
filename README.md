@@ -1,14 +1,3 @@
-> # 👨‍💻 Matheus Azeredo - Fullstack Developer
-> 
-> <p align="center">
->   <a href="https://www.linkedin.com/in/matheus-azeredo-89bbb7279/" target="_blank">
->     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn Profile"/>
->   </a>
->   <img src="https://komarev.com/ghpvc/?username=matheusazeredo&color=blue" alt="Profile views"/>
-> </p>
-> 
-> ---
-> 
 > <p align="center">
 >   <a href="https://www.php.net/" target="_blank">
 >     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
@@ -33,6 +22,14 @@
 >   </a>
 > </p>
 > 
+> <p align="center">
+>   <a href="https://www.linkedin.com/in/matheus-azeredo-89bbb7279/" target="_blank">
+>     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn Profile"/>
+>   </a>
+>   <img src="https://komarev.com/ghpvc/?username=matheusazeredo&color=blue" alt="Profile views"/>
+> </p>
+> 
+> ---
 > 
 > ## 📫 Contato
 > 
