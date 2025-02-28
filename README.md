@@ -86,7 +86,7 @@
   <div class="row">
     <h1 valign="middle" align="center">🔗 Let's Connect on LinkedIn!</h1>
     <p align="center">
-      <a href="https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/matheus-azeredo-89bbb7279" target="_blank">
+      <a href="https://www.linkedin.com/in/matheus-azeredo-89bbb7279" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="100" />
       </a>
     </p>
