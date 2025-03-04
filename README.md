@@ -1,4 +1,3 @@
-<h2 align="center">👋 Hi There! I'm a <strong>Full Stack Developer</strong></h2>
 <table align="center" cellpadding="20" cellspacing="0" style="border-collapse: collapse;">
     <tr>
         <td valign="middle" style="border: none;"><strong>🛠️ Programming Languages:</strong></td>
