@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&center=true&vCenter=true&pause=1000&width=400&lines=Full+Stack+Web+Developer;Cloud+%7C+Microsservices+%7C+APIs;Laravel+%7C+Spring+%7C+PHP+%7C+Java" alt="Typing SVG" width="2000" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&center=true&vCenter=true&pause=1000&width=400&lines=Full+Stack+Web+Developer;Cloud+%7C+Microsservices+%7C+APIs;PHP+%7C+Laravel+%7C+Java+%7C+Spring" alt="Typing SVG" width="2000" />
 </p>
 
 <p align="left">
@@ -26,7 +26,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,js,ts,nodejs,html,css,bootstrap,tailwind,github,mysql,postgres,vscode,aws&perline=8" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,js,nodejs,html,css,bootstrap,tailwind,mysql,postgres,aws&perline=6" />
 </p>
 
 <br>
