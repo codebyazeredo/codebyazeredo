@@ -12,10 +12,11 @@
 
 - 🎯 Focused on scalable web applications and RESTful APIs  
 - 💻 Full-stack developer working with monoliths and microservices  
-- ⚙️ Experience with PHP (Laravel, Laminas), Java (Spring, Quarkus), JS/TS  
-- ☁️ Cloud skills with AWS, Azure, and messaging (MQTT, WebSockets)  
-- 🧩 Background in embedded systems and IoT projects  
-- 👨‍💻 Passionate about clean code, best practices, and distributed architecture  
+- ⚙️ Experience with PHP (Laravel, Laminas), Java (Spring), JS (Node)  
+- ☁️ Cloud skills with AWS, and messaging (MQTT/HTTP, WebSockets)  
+- 🧩 Background in Apps Mobile systems and IoT projects
+- 🎓 Technical degree in Systems Development and currently studying Software Engineering  
+- 👨‍💻 Passionate about clean code, best practices, and distributed architecture
 
 <br>
 
