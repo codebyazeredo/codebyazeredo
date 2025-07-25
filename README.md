@@ -8,15 +8,14 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200" align="right" />
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200" align="right"/>
 
-- 🎯 Focused on scalable web applications and RESTful APIs  
-- 💻 Full-stack developer working with monoliths and microservices  
-- ⚙️ Experience with PHP (Laravel, Laminas), Java (Spring), JS (Node)  
-- ☁️ Cloud skills with AWS, and messaging (MQTT/HTTP, WebSockets)  
-- 🧩 Background in Apps Mobile systems and IoT projects
-- 🎓 Technical degree in Systems Development and currently studying Software Engineering  
-- 👨‍💻 Passionate about clean code, best practices, and distributed architecture
+- 🎯 Web applications and RESTful APIs  
+- 💻 Monoliths and microservices  
+- ⚙️ PHP, Java, JS 
+- ☁️ Cloud, AWS, and messaging 
+- 🎓 Technical degree in Systems Development
+- 🎓 Software Engineering student  
 
 <br>
 
@@ -27,8 +26,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,js,nodejs,html,css,bootstrap,tailwind,mysql,postgres,aws&perline=6" />
+  <img src="https://skillicons.dev/icons?i=php,java,js,nodejs,laravel,spring,html,css,bootstrap,tailwind,react,mysql,postgres,redis,docker,nginx,aws,git&perline=6" />
 </p>
+
 
 <br>
 
