@@ -14,8 +14,6 @@
 - 💻 Monoliths and microservices  
 - ⚙️ PHP, Java, JS 
 - ☁️ Cloud, AWS, and messaging 
-- 🎓 Technical degree in Systems Development
-- 🎓 Software Engineering student  
 
 <br>
 
