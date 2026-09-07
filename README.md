@@ -91,12 +91,13 @@ Software architecture · System design · Distributed systems · Event-driven ar
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyazeredo&layout=donut&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="Most Used Languages"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=codebyazeredo&layout=donut-vertical"
+    alt="Top Languages"
   />
 </p>
 
 <br>
+
 
 ## Let's Connect
 
