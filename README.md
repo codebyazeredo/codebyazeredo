@@ -1,8 +1,9 @@
 <h1 align="center">Matheus Azeredo</h1>
 
+
 <h3 align="center">
   <strong>Full Stack Software Developer</strong><br>
-  <sub>Web • Mobile • Software Architecture</sub>
+  <sub>Web • Mobile • Software Architecture • Developer Program Member</sub>
 </h3>
 
 <p align="center">
@@ -13,6 +14,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
+
+
 
 ---
 
