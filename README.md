@@ -8,7 +8,7 @@
 
 <a href="https://www.codebyazeredo.com.br/">
     <img
-        src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&pause=1800&color=38BDF8&center=true&vCenter=true&width=760&height=40&lines=Full+Stack+Software+Development.;Web%2C+mobile+and+business+applications.;APIs%2C+integrations+and+system+architecture.;AI-assisted+Software+Engineering."
+        src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&pause=1800&color=38BDF8&center=true&vCenter=true&width=760&height=40&lines=Full+Stack+Software+Development;Web%2C+Mobile+And+Enterprise+Softwares.;APIs%2C+Integrations+And+Software+Architecture.;"
         alt="Full Stack Software Developer"
     >
 </a>
@@ -18,8 +18,6 @@
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-0B5CAB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.codebyazeredo.com.br/)
 [![GitHub](https://img.shields.io/badge/GITHUB-172B45?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codebyazeredo)
 [![Email](https://img.shields.io/badge/EMAIL-081426?style=for-the-badge&logo=gmail&logoColor=38BDF8)](mailto:matheus.azeredo.pro@gmail.com)
-
-**English** · [Português](README.pt-BR.md)
 
 </div>
 
