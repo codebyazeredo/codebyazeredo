@@ -4,6 +4,8 @@
   <img src="assets/banner.svg" alt="Matheus Azeredo — Full Stack Developer. Clique para abrir o portfólio." width="100%">
 </a>
 
+<br>
+
 <a href="https://www.codebyazeredo.com.br/">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1400&color=38BDF8&center=true&vCenter=true&width=760&height=40&lines=Arquitetura+de+backend.;APIs+feitas+para+sobreviver+%C3%A0+produ%C3%A7%C3%A3o.;Integra%C3%A7%C3%B5es+que+n%C3%A3o+quebram.;IA+engenheirada+em+fluxos+reais." alt="Arquitetura de backend. APIs feitas para sobreviver à produção. Integrações que não quebram. IA engenheirada em fluxos reais.">
 </a>
@@ -32,11 +34,11 @@ Valorizo código bem estruturado, manutenível e testável, com atenção à cla
 
 ## Stack
 
-| | |
-|:--|:--|
-| **Backend** | <img src="https://cdn.simpleicons.org/php/38BDF8" alt="PHP" title="PHP" height="32"> <img src="https://cdn.simpleicons.org/laravel/38BDF8" alt="Laravel" title="Laravel" height="32"> <img src="https://cdn.simpleicons.org/openjdk/38BDF8" alt="Java" title="Java" height="32"> <img src="https://cdn.simpleicons.org/springboot/38BDF8" alt="Spring Boot" title="Spring Boot" height="32"> <img src="https://cdn.simpleicons.org/python/38BDF8" alt="Python" title="Python" height="32"> <img src="https://cdn.simpleicons.org/nodedotjs/38BDF8" alt="Node.js" title="Node.js" height="32"> <img src="https://cdn.simpleicons.org/nestjs/38BDF8" alt="NestJS" title="NestJS" height="32"> |
-| **Frontend** | <img src="https://cdn.simpleicons.org/javascript/38BDF8" alt="JavaScript" title="JavaScript" height="32"> <img src="https://cdn.simpleicons.org/typescript/38BDF8" alt="TypeScript" title="TypeScript" height="32"> <img src="https://cdn.simpleicons.org/react/38BDF8" alt="React" title="React" height="32"> <img src="https://cdn.simpleicons.org/angular/38BDF8" alt="Angular" title="Angular" height="32"> <img src="https://cdn.simpleicons.org/bootstrap/38BDF8" alt="Bootstrap" title="Bootstrap" height="32"> <img src="https://cdn.simpleicons.org/tailwindcss/38BDF8" alt="Tailwind CSS" title="Tailwind CSS" height="32"> |
-| **Dados e ferramentas** | <img src="https://cdn.simpleicons.org/mysql/38BDF8" alt="MySQL" title="MySQL" height="32"> <img src="https://cdn.simpleicons.org/postgresql/38BDF8" alt="PostgreSQL" title="PostgreSQL" height="32"> <img src="https://cdn.simpleicons.org/redis/38BDF8" alt="Redis" title="Redis" height="32"> <img src="https://cdn.simpleicons.org/docker/38BDF8" alt="Docker" title="Docker" height="32"> <img src="https://cdn.simpleicons.org/git/38BDF8" alt="Git" title="Git" height="32"> <img src="https://cdn.simpleicons.org/github/38BDF8" alt="GitHub" title="GitHub" height="32"> <img src="https://cdn.simpleicons.org/gitlab/38BDF8" alt="GitLab" title="GitLab" height="32"> |
+<div align="center">
+
+<img src="assets/stack.svg" alt="PHP, Laravel, Java, Spring Boot, Python, Node.js, NestJS, JavaScript, TypeScript, React, Angular, Bootstrap, Tailwind CSS, MySQL, PostgreSQL, Redis, Docker, Git, GitHub, GitLab" width="100%">
+
+</div>
 
 ## IA no fluxo de trabalho
 
