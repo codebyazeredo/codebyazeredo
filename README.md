@@ -1,114 +1,83 @@
-<h1 align="center">Matheus Azeredo</h1>
+<div align="center">
 
+<img src="assets/banner.svg" alt="Matheus Azeredo — Full Stack Developer" width="100%">
 
-<h3 align="center">
-  <strong>Full Stack Software Developer</strong><br>
-  <sub>Web • Mobile • Software Architecture • Developer Program Member</sub>
-</h3>
+<br>
 
-<p align="center">
-  <a href="https://github.com/codebyazeredo">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0B5CAB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.codebyazeredo.com.br/)
+[![GitHub](https://img.shields.io/badge/GITHUB-172B45?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codebyazeredo)
 
+**Building software, connecting systems and solving real-world problems.**
 
+</div>
 
 ---
 
-## About
+## `01` / Developer profile
 
-I'm a full stack developer focused on backend engineering, API design, system integration, and software architecture. I've worked across industrial, public-sector, and logistics environments, which has shaped a pragmatic, problem-first approach to building software.
+Full Stack Developer focused on backend development, APIs, integrations and software architecture.
 
-I care less about implementing tickets and more about understanding why a problem exists, what its constraints are, and what the right solution looks like — technically and for the people who depend on it.
+I work on business-oriented applications and systems where reliability, maintainability and practical problem-solving matter. My day-to-day interests include backend engineering, modern web development and applying AI to real workflows.
 
-<br>
+## `02` / Technology stack
 
-## How I Work
+| Area | Technologies |
+|---|---|
+| **Languages** | PHP · JavaScript · TypeScript · Java · Python |
+| **Backend** | Laravel · Laminas · Spring Boot · Node.js · NestJS |
+| **Frontend & Mobile** | React · Angular · React Native · Bootstrap · Tailwind CSS |
+| **Data** | MySQL · PostgreSQL · Redis |
+| **Tools & Infrastructure** | Git · GitHub · GitLab · Docker |
 
-- **Understand the problem first.** I dig into context, constraints, and failure scenarios before writing code — not after.
-- **Own the outcome.** Edge cases, performance, security, and maintainability are part of the job, not an afterthought.
-- **Favor simplicity.** Not every problem needs microservices or the latest architecture trend. Architecture should follow the problem, not fashion.
-- **Communicate trade-offs.** A technically correct solution nobody understands is a bad solution. I try to make decisions legible to both engineers and stakeholders.
-- **Stay framework-agnostic.** Tools change; the fundamentals — architecture, databases, APIs, distributed systems — don't.
+## `03` / Engineering focus
 
-<br>
+| Backend engineering | Integrations |
+|:---|:---|
+| REST APIs · Business logic · Modular systems · Database design · Performance | Webhooks · Third-party APIs · Service communication · Automation |
 
-## Tech Stack
+| Applied AI | Software quality |
+|:---|:---|
+| LLM integration · RAG · AI agents · Tool calling · Prompt engineering | Clean Architecture · SOLID · TDD · Code review · Legacy refactoring |
 
-```php
-final class CodebyAzeredo
-{
-    public string $name = 'Matheus Azeredo';
+## `04` / Selected work
 
-    public string $role = 'Full Stack Software Developer';
+### DevQuest Gamify
+Task management for software development workflows, combining Kanban organization with gamification and productivity mechanics.
 
-    public array $stack = [
-        'Backend' => [
-            'PHP'  => ['Laravel', 'Laminas'],
-            'Java' => ['Spring'],
-        ],
+`Laravel` `MySQL` `Redis` `Docker`
 
-        'Frontend' => [
-            'TypeScript' => [
-                'Frameworks' => ['React', 'Angular', 'React Native'],
-                'Styling'    => ['Tailwind', 'Bootstrap'],
-                'Markup'     => ['HTML', 'CSS'],
-            ],
-        ],
+### Sistema Modelo
+A reusable Laminas application starter intended to accelerate the creation of web applications and backend services.
 
-        'Runtime' => [
-            'Node.js' => ['NestJS'],
-        ],
-    ];
+`PHP` `Laminas` `MySQL`
 
-    public array $databases = [ 'MySQL', 'Oracle', 'SQL Server', 'PostgreSQL'];
-    public array $infrastructures = ['Docker', 'AWS', 'Git', 'GitLab', 'GitHub', 'Postman'];
-    public array $notMyMains = ['Python', 'VBScript'];
+### App Modelo
+A React Native and Expo starter for mobile applications, including foundational app workflows and offline capabilities.
 
-    public function currentFocus(): array
-    {
-        return [
-            'Designing clean, maintainable APIs',
-            'Integrating systems that were never meant to talk to each other',
-            'Turning "it works" into "it scales"',
-        ];
-    }
-}
-```
+`React Native` `Expo` `JavaScript`
 
-**Practices:** Clean architecture, SOLID, dependency injection, queues & jobs, API resources, service/repository patterns, event-driven and asynchronous processing, webhooks, data modeling, query performance and indexing
+[**Browse all repositories →**](https://github.com/codebyazeredo?tab=repositories)
 
-<br>
+## `05` / Applied AI & development workflow
 
-## Currently Exploring
+Exploring practical AI engineering through:
 
-Software architecture · System design · Distributed systems · Event-driven architecture · Cloud infrastructure & DevOps · Performance engineering · Modern PHP/Laravel practices · Technical leadership
+- LLM integration and context-aware application features
+- Retrieval-Augmented Generation (RAG)
+- Agents, tool calling and workflow orchestration
+- Spec-Driven Development
+- AI-assisted testing, code review and refactoring
 
-<br>
+Tools in my workflow include **Claude Code** and **OpenAI Codex**.
 
-## Most Used Languages
+---
 
-<p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=codebyazeredo&layout=donut-vertical"
-    alt="Top Languages"
-  />
-</p>
+<div align="center">
 
-<br>
+[![Profile views](https://komarev.com/ghpvc/?username=codebyazeredo&style=flat-square&color=0878D1&label=PROFILE+VIEWS)](https://github.com/codebyazeredo)
 
+**Let's build something useful.**
 
-## Let's Connect
+[Portfolio](https://www.codebyazeredo.com.br/) · [GitHub repositories](https://github.com/codebyazeredo?tab=repositories)
 
-<p align="center">
-  <a href="https://github.com/codebyazeredo">
-    <img src="https://img.shields.io/badge/GitHub-codebyazeredo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Matheus%20Azeredo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+</div>
