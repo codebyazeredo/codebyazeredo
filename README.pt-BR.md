@@ -7,7 +7,10 @@
 <br>
 
 <a href="https://www.codebyazeredo.com.br/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1400&color=38BDF8&center=true&vCenter=true&width=760&height=40&lines=Arquitetura+de+backend.;APIs+feitas+para+sobreviver+%C3%A0+produ%C3%A7%C3%A3o.;Integra%C3%A7%C3%B5es+que+n%C3%A3o+quebram.;IA+engenheirada+em+fluxos+reais." alt="Arquitetura de backend. APIs feitas para sobreviver à produção. Integrações que não quebram. IA engenheirada em fluxos reais.">
+    <img
+        src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&pause=1800&color=38BDF8&center=true&vCenter=true&width=760&height=40&lines=Desenvolvimento+de+Software+Full+Stack.;Aplica%C3%A7%C3%B5es+web%2C+mobile+e+sistemas+de+neg%C3%B3cio.;APIs%2C+integra%C3%A7%C3%B5es+e+arquitetura+de+sistemas.;Engenharia+de+Software+com+aux%C3%ADlio+de+IA."
+        alt="Desenvolvedor de Software Full Stack"
+    >
 </a>
 
 <br>
