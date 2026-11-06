@@ -1,83 +1,100 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Matheus Azeredo — Full Stack Developer" width="100%">
+<a href="https://www.codebyazeredo.com.br/">
+  <img src="assets/banner.svg" alt="Matheus Azeredo — Full Stack Developer. Click to open the portfolio." width="100%">
+</a>
+
+<a href="https://www.codebyazeredo.com.br/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1400&color=38BDF8&center=true&vCenter=true&width=760&height=40&lines=Backend+architecture.;APIs+built+to+survive+production.;Integrations+that+do+not+break.;AI+engineered+into+real+workflows." alt="Backend architecture. APIs built to survive production. Integrations that do not break. AI engineered into real workflows.">
+</a>
 
 <br>
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-0B5CAB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.codebyazeredo.com.br/)
 [![GitHub](https://img.shields.io/badge/GITHUB-172B45?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codebyazeredo)
+[![Email](https://img.shields.io/badge/EMAIL-081426?style=for-the-badge&logo=gmail&logoColor=38BDF8)](mailto:matheus.azeredo.pro@gmail.com)
 
-**Building software, connecting systems and solving real-world problems.**
+**English** · [Português](README.pt-BR.md)
 
 </div>
 
----
+<br>
 
-## `01` / Developer profile
+## Profile
 
-Full Stack Developer focused on backend development, APIs, integrations and software architecture.
+My primary focus is Backend Development, designing and building APIs, integrations, and business systems with clean, scalable, and reusable architectures. I also develop professional, intuitive, and functional user interfaces, always prioritizing the user experience.
 
-I work on business-oriented applications and systems where reliability, maintainability and practical problem-solving matter. My day-to-day interests include backend engineering, modern web development and applying AI to real workflows.
-
-## `02` / Technology stack
-
-| Area | Technologies |
-|---|---|
-| **Languages** | PHP · JavaScript · TypeScript · Java · Python |
-| **Backend** | Laravel · Laminas · Spring Boot · Node.js · NestJS |
-| **Frontend & Mobile** | React · Angular · React Native · Bootstrap · Tailwind CSS |
-| **Data** | MySQL · PostgreSQL · Redis |
-| **Tools & Infrastructure** | Git · GitHub · GitLab · Docker |
-
-## `03` / Engineering focus
-
-| Backend engineering | Integrations |
-|:---|:---|
-| REST APIs · Business logic · Modular systems · Database design · Performance | Webhooks · Third-party APIs · Service communication · Automation |
-
-| Applied AI | Software quality |
-|:---|:---|
-| LLM integration · RAG · AI agents · Tool calling · Prompt engineering | Clean Architecture · SOLID · TDD · Code review · Legacy refactoring |
-
-## `04` / Selected work
-
-### DevQuest Gamify
-Task management for software development workflows, combining Kanban organization with gamification and productivity mechanics.
-
-`Laravel` `MySQL` `Redis` `Docker`
-
-### Sistema Modelo
-A reusable Laminas application starter intended to accelerate the creation of web applications and backend services.
-
-`PHP` `Laminas` `MySQL`
-
-### App Modelo
-A React Native and Expo starter for mobile applications, including foundational app workflows and offline capabilities.
-
-`React Native` `Expo` `JavaScript`
-
-[**Browse all repositories →**](https://github.com/codebyazeredo?tab=repositories)
-
-## `05` / Applied AI & development workflow
-
-Exploring practical AI engineering through:
-
-- LLM integration and context-aware application features
-- Retrieval-Augmented Generation (RAG)
-- Agents, tool calling and workflow orchestration
-- Spec-Driven Development
-- AI-assisted testing, code review and refactoring
-
-Tools in my workflow include **Claude Code** and **OpenAI Codex**.
-
----
+I value well-structured, maintainable, and testable code, with a strong emphasis on clarity and long-term maintainability for other developers. I also work on AI-powered solutions, including LLMs, RAG, and intelligent agents, applying these technologies to real-world scenarios and workflows.
 
 <div align="center">
 
+[**See the full portfolio**](https://www.codebyazeredo.com.br/)
+
+</div>
+
+<br>
+
+## Stack
+
+<div align="center">
+
+<a href="https://www.codebyazeredo.com.br/">
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,java,spring,py,nodejs,nestjs&theme=dark" alt="PHP, Laravel, JavaScript, TypeScript, Java, Spring Boot, Python, Node.js, NestJS">
+</a>
+<br>
+<a href="https://www.codebyazeredo.com.br/">
+  <img src="https://skillicons.dev/icons?i=react,angular,bootstrap,tailwind,mysql,postgres,redis,docker,git,github,gitlab&theme=dark" alt="React, Angular, Bootstrap, Tailwind CSS, MySQL, PostgreSQL, Redis, Docker, Git, GitHub, GitLab">
+</a>
+
+</div>
+
+Also in daily use: Laminas and React Native.
+
+<br>
+
+## Focus
+
+**Backend.** Domain logic, REST APIs and data models designed to be changed without fear.
+
+**Integrations.** Webhooks, third-party APIs and service-to-service communication that fail loudly and recover cleanly.
+
+**Quality.** Clean Architecture, SOLID, TDD and refactoring of legacy code, one safe step at a time.
+
+<br>
+
+## Activity
+
+<div align="center">
+
+<a href="https://github.com/codebyazeredo">
+  <img src="https://streak-stats.demolab.com?user=codebyazeredo&hide_border=true&background=081426&ring=38BDF8&fire=60A5FA&currStreakLabel=BFDBFE&sideLabels=93C5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7DD3FC" alt="Contribution streak">
+</a>
+
+<a href="https://github.com/codebyazeredo">
+  <img src="https://ghchart.rshah.org/38BDF8/codebyazeredo" alt="Contribution chart for the last year" width="100%">
+</a>
+
+</div>
+
+<br>
+
+## AI in the workflow
+
+- LLM integration and features driven by application context
+- RAG, agents, tool calling and workflow orchestration
+- Spec-Driven Development
+- AI-assisted testing, code review and refactoring
+
+Daily tools: **Claude Code** and **OpenAI Codex**.
+
+<br>
+
+<div align="center">
+
+<a href="https://www.codebyazeredo.com.br/">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18&height=120&section=footer&text=codebyazeredo.com.br&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=65" alt="codebyazeredo.com.br — open the portfolio" width="100%">
+</a>
+
 [![Profile views](https://komarev.com/ghpvc/?username=codebyazeredo&style=flat-square&color=0878D1&label=PROFILE+VIEWS)](https://github.com/codebyazeredo)
-
-**Let's build something useful.**
-
-[Portfolio](https://www.codebyazeredo.com.br/) · [GitHub repositories](https://github.com/codebyazeredo?tab=repositories)
 
 </div>
