@@ -18,67 +18,32 @@
 
 </div>
 
-<br>
-
 ## Perfil
 
 Meu foco principal é o desenvolvimento Backend, projetando e construindo APIs, integrações e sistemas de negócio com arquiteturas limpas, escaláveis e reutilizáveis. Também desenvolvo interfaces profissionais, intuitivas e funcionais, sempre priorizando a experiência do usuário.
 
 Valorizo código bem estruturado, manutenível e testável, com atenção à clareza e à facilidade de evolução por outros desenvolvedores. Também trabalho com desenvolvimento de soluções baseadas em IA, incluindo LLMs, RAG e agentes inteligentes, aplicados a cenários e fluxos de trabalho reais.
 
-<div align="center">
+## Foco
 
-[**Ver o portfólio completo**](https://www.codebyazeredo.com.br/)
-
-</div>
-
-<br>
+| **Backend** | **Integrações** | **Qualidade** |
+|:--|:--|:--|
+| Lógica de domínio, APIs REST e modelagem de dados feitas para mudar sem medo. | Webhooks, APIs de terceiros e comunicação entre serviços que falham de forma clara e se recuperam bem. | Clean Architecture, SOLID, TDD e refatoração de legado, um passo seguro de cada vez. |
 
 ## Stack
 
-<div align="center">
+| | |
+|:--|:--|
+| **Backend** | <img src="https://cdn.simpleicons.org/php/38BDF8" alt="PHP" title="PHP" height="32"> <img src="https://cdn.simpleicons.org/laravel/38BDF8" alt="Laravel" title="Laravel" height="32"> <img src="https://cdn.simpleicons.org/openjdk/38BDF8" alt="Java" title="Java" height="32"> <img src="https://cdn.simpleicons.org/springboot/38BDF8" alt="Spring Boot" title="Spring Boot" height="32"> <img src="https://cdn.simpleicons.org/python/38BDF8" alt="Python" title="Python" height="32"> <img src="https://cdn.simpleicons.org/nodedotjs/38BDF8" alt="Node.js" title="Node.js" height="32"> <img src="https://cdn.simpleicons.org/nestjs/38BDF8" alt="NestJS" title="NestJS" height="32"> |
+| **Frontend** | <img src="https://cdn.simpleicons.org/javascript/38BDF8" alt="JavaScript" title="JavaScript" height="32"> <img src="https://cdn.simpleicons.org/typescript/38BDF8" alt="TypeScript" title="TypeScript" height="32"> <img src="https://cdn.simpleicons.org/react/38BDF8" alt="React" title="React" height="32"> <img src="https://cdn.simpleicons.org/angular/38BDF8" alt="Angular" title="Angular" height="32"> <img src="https://cdn.simpleicons.org/bootstrap/38BDF8" alt="Bootstrap" title="Bootstrap" height="32"> <img src="https://cdn.simpleicons.org/tailwindcss/38BDF8" alt="Tailwind CSS" title="Tailwind CSS" height="32"> |
+| **Dados e ferramentas** | <img src="https://cdn.simpleicons.org/mysql/38BDF8" alt="MySQL" title="MySQL" height="32"> <img src="https://cdn.simpleicons.org/postgresql/38BDF8" alt="PostgreSQL" title="PostgreSQL" height="32"> <img src="https://cdn.simpleicons.org/redis/38BDF8" alt="Redis" title="Redis" height="32"> <img src="https://cdn.simpleicons.org/docker/38BDF8" alt="Docker" title="Docker" height="32"> <img src="https://cdn.simpleicons.org/git/38BDF8" alt="Git" title="Git" height="32"> <img src="https://cdn.simpleicons.org/github/38BDF8" alt="GitHub" title="GitHub" height="32"> <img src="https://cdn.simpleicons.org/gitlab/38BDF8" alt="GitLab" title="GitLab" height="32"> |
 
-<a href="https://www.codebyazeredo.com.br/">
-  <img src="https://cdn.simpleicons.org/php/38BDF8" alt="PHP" height="40">
-  <img src="https://cdn.simpleicons.org/laravel/38BDF8" alt="Laravel" height="40">
-  <img src="https://cdn.simpleicons.org/javascript/38BDF8" alt="JavaScript" height="40">
-  <img src="https://cdn.simpleicons.org/typescript/38BDF8" alt="TypeScript" height="40">
-  <img src="https://cdn.simpleicons.org/openjdk/38BDF8" alt="Java" height="40">
-  <img src="https://cdn.simpleicons.org/springboot/38BDF8" alt="Spring Boot" height="40">
-  <img src="https://cdn.simpleicons.org/python/38BDF8" alt="Python" height="40">
-  <img src="https://cdn.simpleicons.org/nodedotjs/38BDF8" alt="Node.js" height="40">
-  <img src="https://cdn.simpleicons.org/nestjs/38BDF8" alt="NestJS" height="40">
-</a>
-<br>
-<a href="https://www.codebyazeredo.com.br/">
-  <img src="https://cdn.simpleicons.org/react/38BDF8" alt="React" height="40">
-  <img src="https://cdn.simpleicons.org/angular/38BDF8" alt="Angular" height="40">
-  <img src="https://cdn.simpleicons.org/bootstrap/38BDF8" alt="Bootstrap" height="40">
-  <img src="https://cdn.simpleicons.org/tailwindcss/38BDF8" alt="Tailwind CSS" height="40">
-  <img src="https://cdn.simpleicons.org/mysql/38BDF8" alt="MySQL" height="40">
-  <img src="https://cdn.simpleicons.org/postgresql/38BDF8" alt="PostgreSQL" height="40">
-  <img src="https://cdn.simpleicons.org/redis/38BDF8" alt="Redis" height="40">
-  <img src="https://cdn.simpleicons.org/docker/38BDF8" alt="Docker" height="40">
-  <img src="https://cdn.simpleicons.org/git/38BDF8" alt="Git" height="40">
-  <img src="https://cdn.simpleicons.org/github/38BDF8" alt="GitHub" height="40">
-  <img src="https://cdn.simpleicons.org/gitlab/38BDF8" alt="GitLab" height="40">
-</a>
+## IA no fluxo de trabalho
 
-</div>
-
-Também no dia a dia: Laminas e React Native.
-
-<br>
-
-## Foco
-
-**Backend.** Lógica de domínio, APIs REST e modelagem de dados feitas para mudar sem medo.
-
-**Integrações.** Webhooks, APIs de terceiros e comunicação entre serviços que falham de forma clara e se recuperam bem.
-
-**Qualidade.** Clean Architecture, SOLID, TDD e refatoração de legado, um passo seguro de cada vez.
-
-<br>
+- Integração com LLMs e recursos guiados pelo contexto da aplicação
+- RAG, agentes, tool calling e orquestração de fluxos
+- Spec-Driven Development
+- Testes, code review e refatoração assistidos por IA
 
 ## Atividade
 
@@ -88,22 +53,7 @@ Também no dia a dia: Laminas e React Native.
   <img src="https://streak-stats.demolab.com?user=codebyazeredo&mode=weekly&hide_border=true&background=081426&ring=38BDF8&fire=60A5FA&currStreakLabel=BFDBFE&sideLabels=93C5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7DD3FC&locale=pt_BR" alt="Sequência de contribuições">
 </a>
 
-<a href="https://github.com/codebyazeredo">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=codebyazeredo&show_icons=true&hide_border=true&bg_color=081426&title_color=38BDF8&icon_color=60A5FA&text_color=BFDBFE&count_private=true" alt="GitHub stats" width="60%">
-</a>
-
 </div>
-
-<br>
-
-## IA no fluxo de trabalho
-
-- Integração com LLMs e recursos guiados pelo contexto da aplicação
-- RAG, agentes, tool calling e orquestração de fluxos
-- Spec-Driven Development
-- Testes, code review e refatoração assistidos por IA
-
-<br>
 
 <div align="center">
 

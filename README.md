@@ -18,67 +18,32 @@
 
 </div>
 
-<br>
-
-## Profile
+## About
 
 My primary focus is Backend Development, designing and building APIs, integrations, and business systems with clean, scalable, and reusable architectures. I also develop professional, intuitive, and functional user interfaces, always prioritizing the user experience.
 
 I value well-structured, maintainable, and testable code, with a strong emphasis on clarity and long-term maintainability for other developers. I also work on AI-powered solutions, including LLMs, RAG, and intelligent agents, applying these technologies to real-world scenarios and workflows.
 
-<div align="center">
+## Focus
 
-[**See the full portfolio**](https://www.codebyazeredo.com.br/)
-
-</div>
-
-<br>
+| **Backend** | **Integrations** | **Quality** |
+|:--|:--|:--|
+| Domain logic, REST APIs and data models designed to be changed without fear. | Webhooks, third-party APIs and service-to-service communication that fail loudly and recover cleanly. | Clean Architecture, SOLID, TDD and refactoring of legacy code, one safe step at a time. |
 
 ## Stack
 
-<div align="center">
+| | |
+|:--|:--|
+| **Backend** | <img src="https://cdn.simpleicons.org/php/38BDF8" alt="PHP" title="PHP" height="32"> <img src="https://cdn.simpleicons.org/laravel/38BDF8" alt="Laravel" title="Laravel" height="32"> <img src="https://cdn.simpleicons.org/openjdk/38BDF8" alt="Java" title="Java" height="32"> <img src="https://cdn.simpleicons.org/springboot/38BDF8" alt="Spring Boot" title="Spring Boot" height="32"> <img src="https://cdn.simpleicons.org/python/38BDF8" alt="Python" title="Python" height="32"> <img src="https://cdn.simpleicons.org/nodedotjs/38BDF8" alt="Node.js" title="Node.js" height="32"> <img src="https://cdn.simpleicons.org/nestjs/38BDF8" alt="NestJS" title="NestJS" height="32"> |
+| **Frontend** | <img src="https://cdn.simpleicons.org/javascript/38BDF8" alt="JavaScript" title="JavaScript" height="32"> <img src="https://cdn.simpleicons.org/typescript/38BDF8" alt="TypeScript" title="TypeScript" height="32"> <img src="https://cdn.simpleicons.org/react/38BDF8" alt="React" title="React" height="32"> <img src="https://cdn.simpleicons.org/angular/38BDF8" alt="Angular" title="Angular" height="32"> <img src="https://cdn.simpleicons.org/bootstrap/38BDF8" alt="Bootstrap" title="Bootstrap" height="32"> <img src="https://cdn.simpleicons.org/tailwindcss/38BDF8" alt="Tailwind CSS" title="Tailwind CSS" height="32"> |
+| **Data & tools** | <img src="https://cdn.simpleicons.org/mysql/38BDF8" alt="MySQL" title="MySQL" height="32"> <img src="https://cdn.simpleicons.org/postgresql/38BDF8" alt="PostgreSQL" title="PostgreSQL" height="32"> <img src="https://cdn.simpleicons.org/redis/38BDF8" alt="Redis" title="Redis" height="32"> <img src="https://cdn.simpleicons.org/docker/38BDF8" alt="Docker" title="Docker" height="32"> <img src="https://cdn.simpleicons.org/git/38BDF8" alt="Git" title="Git" height="32"> <img src="https://cdn.simpleicons.org/github/38BDF8" alt="GitHub" title="GitHub" height="32"> <img src="https://cdn.simpleicons.org/gitlab/38BDF8" alt="GitLab" title="GitLab" height="32"> |
 
-<a href="https://www.codebyazeredo.com.br/">
-  <img src="https://cdn.simpleicons.org/php/38BDF8" alt="PHP" height="40">
-  <img src="https://cdn.simpleicons.org/laravel/38BDF8" alt="Laravel" height="40">
-  <img src="https://cdn.simpleicons.org/javascript/38BDF8" alt="JavaScript" height="40">
-  <img src="https://cdn.simpleicons.org/typescript/38BDF8" alt="TypeScript" height="40">
-  <img src="https://cdn.simpleicons.org/openjdk/38BDF8" alt="Java" height="40">
-  <img src="https://cdn.simpleicons.org/springboot/38BDF8" alt="Spring Boot" height="40">
-  <img src="https://cdn.simpleicons.org/python/38BDF8" alt="Python" height="40">
-  <img src="https://cdn.simpleicons.org/nodedotjs/38BDF8" alt="Node.js" height="40">
-  <img src="https://cdn.simpleicons.org/nestjs/38BDF8" alt="NestJS" height="40">
-</a>
-<br>
-<a href="https://www.codebyazeredo.com.br/">
-  <img src="https://cdn.simpleicons.org/react/38BDF8" alt="React" height="40">
-  <img src="https://cdn.simpleicons.org/angular/38BDF8" alt="Angular" height="40">
-  <img src="https://cdn.simpleicons.org/bootstrap/38BDF8" alt="Bootstrap" height="40">
-  <img src="https://cdn.simpleicons.org/tailwindcss/38BDF8" alt="Tailwind CSS" height="40">
-  <img src="https://cdn.simpleicons.org/mysql/38BDF8" alt="MySQL" height="40">
-  <img src="https://cdn.simpleicons.org/postgresql/38BDF8" alt="PostgreSQL" height="40">
-  <img src="https://cdn.simpleicons.org/redis/38BDF8" alt="Redis" height="40">
-  <img src="https://cdn.simpleicons.org/docker/38BDF8" alt="Docker" height="40">
-  <img src="https://cdn.simpleicons.org/git/38BDF8" alt="Git" height="40">
-  <img src="https://cdn.simpleicons.org/github/38BDF8" alt="GitHub" height="40">
-  <img src="https://cdn.simpleicons.org/gitlab/38BDF8" alt="GitLab" height="40">
-</a>
+## AI in the workflow
 
-</div>
-
-Also in daily use: Laminas and React Native.
-
-<br>
-
-## Focus
-
-**Backend.** Domain logic, REST APIs and data models designed to be changed without fear.
-
-**Integrations.** Webhooks, third-party APIs and service-to-service communication that fail loudly and recover cleanly.
-
-**Quality.** Clean Architecture, SOLID, TDD and refactoring of legacy code, one safe step at a time.
-
-<br>
+- LLM integration and features driven by application context
+- RAG, agents, tool calling and workflow orchestration
+- Spec-Driven Development
+- AI-assisted testing, code review and refactoring
 
 ## Activity
 
@@ -88,22 +53,7 @@ Also in daily use: Laminas and React Native.
   <img src="https://streak-stats.demolab.com?user=codebyazeredo&mode=weekly&hide_border=true&background=081426&ring=38BDF8&fire=60A5FA&currStreakLabel=BFDBFE&sideLabels=93C5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7DD3FC" alt="Contribution streak">
 </a>
 
-<a href="https://github.com/codebyazeredo">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=codebyazeredo&show_icons=true&hide_border=true&bg_color=081426&title_color=38BDF8&icon_color=60A5FA&text_color=BFDBFE&count_private=true" alt="GitHub stats" width="60%">
-</a>
-
 </div>
-
-<br>
-
-## AI in the workflow
-
-- LLM integration and features driven by application context
-- RAG, agents, tool calling and workflow orchestration
-- Spec-Driven Development
-- AI-assisted testing, code review and refactoring
-
-<br>
 
 <div align="center">
 
